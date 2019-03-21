@@ -1,5 +1,5 @@
 {
-    "name": "monero-integrations/monerophp",
+    "name": "aytaceminoglu/monerophp",
     "description": "A Monero library written in PHP by the Monero-Integrations team.",
     "keywords": ["Monero", "XMR", "monerod", "monero-wallet-rpc", "cryptonote", "JSONRPC", "JSON-RPC", "cryptocurrency"],
     "homepage": "https://github.com/monero-integrations/monerophp",
